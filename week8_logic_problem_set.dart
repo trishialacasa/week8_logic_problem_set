@@ -40,6 +40,7 @@ void main() {
     int score = int.parse(input ?? '');
 
     String result = checkScore(score);
+    print('Your result is: $result');
   } on FormatException {
     print('');
     print('========================================');
