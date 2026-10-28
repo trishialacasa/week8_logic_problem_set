@@ -1,0 +1,16 @@
+========================================
+          STUDENT SCORE CHECKER         
+========================================
+Enter your score: 95
+
+========================================
+              SCORE REPORT              
+========================================
+Student Score : 95 / 100
+Final Result  : PASSED
+----------------------------------------
+Check 1: Your result is PASSED.
+Check 2: Your result is PASSED.
+Check 3: Your result is PASSED.
+========================================
+Your result is: PASSED
